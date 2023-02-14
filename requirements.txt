@@ -1,0 +1,12 @@
+accelerate
+diffusers
+einops
+gradio
+ipython
+numpy
+opencv-python-headless
+pillow
+psutil
+tqdm
+transformers
+salesforce-lavis
